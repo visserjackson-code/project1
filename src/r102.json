@@ -1,0 +1,111 @@
+{
+    "grass": {
+        "Poochyena": {
+        "natDex": 261,
+        "odds": 0.15,
+        "canEvolve": true,
+        "evolutions": ["Mightyena"],
+        "type": ["Dark"]
+    },
+    "Zigzagoon": {
+        "natDex": 263,
+        "odds": 0.3,
+        "canEvolve": true,
+        "evolutions": ["Linoone"],
+        "type": ["Normal"]
+    },
+     "Wurmple": {
+        "natDex": 265,
+        "odds": 0.3,
+        "canEvolve": true,
+        "evolutions": ["Silcoon", "Beautifly", "Cascoon", "Dustox"],
+        "type": ["Bug"]
+    },
+      "Lotad": {
+        "natDex": 270,
+        "odds": 0.2,
+        "versionExclusive": true,
+        "canEvolve": true,
+        "evolutions": ["Lombre", "Ludicolo"],
+        "type": ["Water", "Grass"]
+      },
+      "Ralts": {
+        "natDex": 280,
+        "odds": 0.04,
+        "canEvolve": true,
+        "evolutions": ["Kirlia", "Gardevoir"],
+        "type": ["Psychic"]
+      },
+      "Surskit": {
+        "natDex": 284,
+        "odds": 0.01,
+        "canEvolve": true,
+        "evolutions": ["Masquerain"],
+        "type": ["Bug", "Water"]
+      }
+    },
+    "surf": {
+        "Surskit": {
+        "natDex": 284,
+        "odds": 0.01,
+        "canEvolve": true,
+        "evolutions": ["Masquerain"],
+        "type": ["Bug", "Water"]
+      },
+        "Marill": {
+            "natDex": 183,
+            "odds": 0.99,
+            "canEvolve": true,
+            "evolutions": ["Azumarill"],
+            "type": ["Water"]
+        }
+    },
+    "oldRod": {
+        "Goldeen": {
+            "natDex": 118,
+            "odds": 0.3,
+            "canEvolve": true,
+            "evolutions": ["Seaking"],
+            "type": ["Water"]
+        },
+         "Magikarp": {
+        "natDex": 129,
+        "odds": 0.7,
+        "canEvolve": true,
+        "evolutions": ["Gyrados"],
+        "type": ["Water"]
+        }
+    },
+    "goodRod": {
+        "Goldeen": {
+            "natDex": 118,
+            "odds": 0.2,
+            "canEvolve": true,
+            "evolutions": ["Seaking"],
+            "type": ["Water"]
+        },
+         "Magikarp": {
+        "natDex": 129,
+        "odds": 0.6,
+        "canEvolve": true,
+        "evolutions": ["Gyrados"],
+        "type": ["Water"]
+        },
+        "Corphish": {
+            "natDex": 341,
+            "odds": 0.2,
+            "canEvolve": true,
+            "evolutions": ["Crawdaunt"],
+            "type": ["Water"]
+        }
+    },
+    "superRod": {
+        "Corphish": {
+             "natDex": 341,
+            "odds": 1,
+            "canEvolve": true,
+            "evolutions": ["Crawdaunt"],
+            "type": ["Water"]
+        }
+    }
+}

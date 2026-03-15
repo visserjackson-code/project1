@@ -1,0 +1,107 @@
+{
+    "grass":
+     {
+        "Poochyena": {
+        "natDex": 261,
+        "odds": 0.3,
+        "canEvolve": true,
+        "evolutions": ["Mightyena"],
+        "type": ["Dark"]
+    },
+    "Zigzagoon": {
+        "natdex": 263,
+        "odds": 0.6,
+        "canEvolve": true,
+        "evolutions": ["Linoone"],
+        "type": ["Normal"]
+    },
+    "Wingull": {
+        "natdex": 278,
+        "odds": 0.1,
+        "canEvolve": true,
+        "evolutions": ["Pelipper"],
+        "type": ["Water", "Flying"]
+    }
+    },
+    "surf": 
+    {
+       "Tentacool": {
+        "natdex": 72,
+        "odds": 0.6,
+        "canEvolve": true,
+        "evolutions": ["Tentacruel"],
+        "type": ["Water", "Poison"]
+       },
+       "Wingull": {
+        "natdex": 278,
+        "odds": 0.35,
+        "canEvolve": true,
+        "evolutions": ["Pelipper"],
+        "type": ["Water", "Flying"]
+    },
+        "Pelipper": {
+        "natdex": 279,
+        "odds": 0.35,
+        "canEvolve": false,
+        "evolutions": [],
+        "type": ["Water", "Flying"]
+    }
+},
+    "oldRod": {
+        "Tentacool": {
+        "natdex": 72,
+        "odds": 0.7,
+        "canEvolve": true,
+        "evolutions": ["Tentacruel"],
+        "type": ["Water", "Poison"]
+       },
+        "Magikarp": {
+        "natdex": 129,
+        "odds": 0.3,
+        "canEvolve": true,
+        "evolutions": ["Gyrados"],
+        "type": ["Water"]
+        }
+    },
+    "goodRod": {
+         "Tentacool": {
+        "natdex": 72,
+        "odds": 0.2,
+        "canEvolve": true,
+        "evolutions": ["Tentacruel"],
+        "type": ["Water", "Poison"]
+       },
+        "Magikarp": {
+        "natdex": 129,
+        "odds": 0.6,
+        "canEvolve": true,
+        "evolutions": ["Gyrados"],
+        "type": ["Water"]
+       },
+        "Wailmer": {
+            "natDex": 320,
+            "odds": 0.2,
+            "canEvolve": true,
+            "evolutions": ["Wailord"],
+            "type": ["Water"]
+        }
+    },
+    "superRod": {
+        "Wailmer": {
+            "natDex": 320,
+            "odds": 0.6,
+            "canEvolve": true,
+            "evolutions": ["Wailord"],
+            "type": ["Water"]
+        },
+        "Sharpedo": {
+            "natDex": 319,
+            "odds": 0.4,
+            "canEvolve": false,
+            "evolutions": [],
+            "type": ["Water", "Dark"]
+        } 
+    }
+
+}
+

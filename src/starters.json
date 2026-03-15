@@ -1,0 +1,23 @@
+{
+    "Treecko": {
+        "natDexNumber": 252,
+        "odds": "N/A",
+        "canEvolve": true,
+        "evolutions": ["Grovyle", "Sceptile"],
+        "type": ["Grass"]
+    },
+    "Torchic": {
+        "natDexNumber": 255,
+        "odds": "N/A",
+        "canEvolve": true,
+        "evolutions": ["Combusken", "Blaziken"],
+        "type": ["Fire"]
+    },
+    "Mudkip": {
+        "natDexNumber": 258,
+        "odds": "N/A",
+        "canEvolve": true,
+        "evolutions": ["Marshtomp", "Swampert"],
+        "type": ["Water"]
+    }
+}
