@@ -75,7 +75,7 @@
         "natdex": 129,
         "odds": 0.6,
         "canEvolve": true,
-        "evolutions": ["Gyrados"],
+        "evolutions": ["Gyarados"],
         "type": ["Water"]
        },
         "Wailmer": {

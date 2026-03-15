@@ -72,7 +72,7 @@
         "natDex": 129,
         "odds": 0.7,
         "canEvolve": true,
-        "evolutions": ["Gyrados"],
+        "evolutions": ["Gyarados"],
         "type": ["Water"]
         }
     },
@@ -88,7 +88,7 @@
         "natDex": 129,
         "odds": 0.6,
         "canEvolve": true,
-        "evolutions": ["Gyrados"],
+        "evolutions": ["Gyarados"],
         "type": ["Water"]
         },
         "Corphish": {

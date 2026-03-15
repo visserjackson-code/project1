@@ -1,0 +1,75 @@
+{
+    "grass": {
+        "Zigzagoon": {
+        "natdex": 263,
+        "odds": 0.5,
+        "canEvolve": true,
+        "evolutions": ["Linoone"],
+        "type": ["Normal"]
+    },
+        "Wurmple": {
+         "natDex": 265,
+         "odds": 0.3,
+         "canEvolve": true,
+         "evolutions": ["Silcoon", "Beautifly", "Cascoon", "Dustox"],
+         "type": ["Bug"]
+        },
+        "Wingull": {
+        "natDex": 278,
+        "odds": 0.1,
+        "canEvolve": true,
+        "evolutions": ["Pelipper"],
+        "type": ["Water", "Flying"]
+        },
+        "Tailow": {
+        "natDex": 276,
+        "odds": 0.1,
+        "canEvolve": true,
+        "evolutions": ["Swellow"],
+        "type": ["Normal", "Flying"]
+        }  
+    },
+    "surf": {
+        "Wingull": {
+        "natDex": 278,
+        "odds": 0.95,
+        "canEvolve": true,
+        "evolutions": ["Pelipper"],
+        "type": ["Water", "Flying"]
+        },
+        "Pelipper": {
+        "natDex": 279,
+        "odds": 0.05,
+        "canEvolve": false,
+        "evolutions": [],
+        "type": ["Water", "Flying"]
+        }
+    },
+    "oldRod": {
+        "Magikarp": {
+        "natdex": 129,
+        "odds": 1,
+        "canEvolve": true,
+        "evolutions": ["Gyarados"],
+        "type": ["Water"]
+       }
+    },
+    "goodRod": {
+         "Magikarp": {
+        "natdex": 129,
+        "odds": 1,
+        "canEvolve": true,
+        "evolutions": ["Gyarados"],
+        "type": ["Water"]
+       }
+    },
+    "superRod": {
+         "Magikarp": {
+        "natdex": 129,
+        "odds": 1,
+        "canEvolve": true,
+        "evolutions": ["Gyarados"],
+        "type": ["Water"]
+       }
+    }
+}
