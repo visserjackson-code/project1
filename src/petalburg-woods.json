@@ -1,0 +1,30 @@
+{
+    "grass": {
+        "Zigzagoon": {
+        "odds": 0.3,
+        "canEvolve": true,
+        "evolutions": ["Linoone"],
+        "type": ["Normal"]
+        },
+        "Wurmple": {
+            
+
+        },
+        "Silcoon": {
+
+        },
+        "Cascoon": {
+
+        },
+        "Tailow": {
+
+        },
+        "Shroomish": {
+
+        },
+
+        "Skaloth": {
+
+        }
+    }
+}

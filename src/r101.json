@@ -1,20 +1,17 @@
 {
     "Poochyena": {
-        "natDex": 261,
         "odds": 0.1,
         "canEvolve": true,
         "evolutions": ["Mightyena"],
         "type": ["Dark"]
     },
     "Zigzagoon": {
-        "natdex": 263,
         "odds": 0.45,
         "canEvolve": true,
         "evolutions": ["Linoone"],
         "type": ["Normal"]
     },
     "Wurmple": {
-        "natdex": 265,
         "odds": 0.45,
         "canEvolve": true,
         "evolutions": ["Silcoon", "Beautifly", "Cascoon", "Dustox"],
