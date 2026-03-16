@@ -1,0 +1,8 @@
+{
+    "Whismur": {
+            "odds": 1,
+            "canEvolve": true,
+            "evolutions": ["Loudred", "Exploud"],
+            "type": ["Normal"]
+            }
+}
