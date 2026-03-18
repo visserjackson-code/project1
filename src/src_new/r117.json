@@ -1,0 +1,17 @@
+{
+    "Oddish": {"name": "Oddish", "location": "grass", "rate": 0.1},
+    "Marill": {"name": "Marill", "location": "grass", "rate": 0.1},
+    "Zigzagoon":{"name": "Zigzagoon", "location": "grass", "rate": 0.3},
+    "Surskit":{"name": "Surskit", "location": "grass", "rate": 0.01},
+    "Volbeat":{"name": "Volbeat", "location": "grass", "rate": 0.18},
+    "Illumise":{"name": "Illumise", "location": "grass", "rate": 0.01},
+    "Roselia":{"name": "Roselia", "location": "grass", "rate": 0.30},
+    "Marill2": {"name": "Marill", "location": "surf", "rate": 0.99},
+    "Surskit2":{"name": "Surskit", "location": "surf", "rate": 0.01},
+    "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+    "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+    "Corphish": {"name": "Corphish", "location": "goodRod", "rate": 0.2},
+    "Corphish2": {"name": "Corphish", "location": "superRod", "rate": 1}
+}
