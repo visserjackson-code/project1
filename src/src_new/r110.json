@@ -1,0 +1,20 @@
+{
+    "Oddish": {"name": "Oddish", "location": "grass", "rate": 0.1},
+    "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.2},
+    "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.08},
+    "Electrike": {"name": "Electrike", "location": "grass", "rate": 0.3},
+    "Plusle": {"name": "Plusle", "location": "grass", "rate": 0.15},
+    "Minun": {"name": "Minun", "location": "grass", "rate": 0.02},
+    "Gulpin": {"name": "Gulpin", "location": "grass", "rate": 0.15},
+    "Tentacool": {"name": "Tentacool", "location": "surfing", "rate": 0.6},
+    "Wingull2": {"name": "Wingull", "location": "surfing", "rate": 0.35},
+    "Pelipper": {"name": "Pelipper", "loation": "surfing", "rate": 0.05},
+    "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+     "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+     "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+     "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+     "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+     "Wailmer2": {"name": "Wailmer", "location": "goodRod", "rate": 1}
+
+}
+
