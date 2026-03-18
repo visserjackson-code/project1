@@ -52,5 +52,78 @@
                     "type": ["Fighting"]
                 }
 
-    }
+    },
+    "B1F": {
+         "Zubat": {
+            "odds": 0.3,
+            "canEvolve": true,
+            "evolutions": ["Golbat", "Crobat"],
+            "type": ["Poison", "Flying"]
+        },
+         "Abra": {
+            "odds": 0.1,
+            "canEvolve" : true,
+            "evolutions": ["Kadabra", "Alakazam"],
+            "type": ["Psychic"]
+        },
+        "Makuhita": {
+            "odds": 0.1,
+            "canEvolve": true,
+             "evolutions": "Hariyama",
+            "type": ["Fighting"]
+        },
+         "Aron": {
+            "odds": 0.4,
+            "canEvolve": true,
+            "evolutions": ["Lairon","Aggron"],
+            "type": ["Steel", "Rock"]
+        },
+        "Sableye": {
+            "odds": 0.1,
+            "canEvolve": false,
+            "evolutions": [],
+            "type": ["Ghost", "Dark"]
+        } 
+    },
+    "B2F Cave": {
+         "Zubat": {
+            "odds": 0.3,
+            "canEvolve": true,
+            "evolutions": ["Golbat", "Crobat"],
+            "type": ["Poison", "Flying"]
+        },
+          "Abra": {
+            "odds": 0.1,
+            "canEvolve" : true,
+            "evolutions": ["Kadabra", "Alakazam"],
+            "type": ["Psychic"]
+        },
+        "Sableye": {
+            "odds": 0.2,
+            "canEvolve": false,
+            "evolutions": [],
+            "type": ["Ghost", "Dark"]
+        },
+         "Aron": {
+            "odds": 0.4,
+            "canEvolve": true,
+            "evolutions": ["Lairon","Aggron"],
+            "type": ["Steel", "Rock"]
+        }
+    },
+    "B2F Rock Smash": {
+            "Geodude": {
+            "odds": 0.7,
+            "canEvolve": true,
+            "evolutions": ["Graveler", "Golem"],
+            "type": ["Rock", "Ground"]
+        },
+            "Nosepass": {
+                "odds": 0.3,
+                "canEvolve": false,
+                "evolutions": [],
+                "type": ["Rock"]
+            }
+            
+        }
 }
