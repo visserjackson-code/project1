@@ -1,0 +1,5 @@
+{
+    "Sandshrew": {"name": "Sandshrew", "location": "grass", "rate": 0.25},
+    "Skarmory": {"name": "Skarmory", "location": "grass", "rate": 0.05},
+    "Spinda": {"name": "Spinda", "location": "grass", "rate": 0.7}
+}
