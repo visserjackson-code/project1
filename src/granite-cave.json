@@ -1,0 +1,56 @@
+{
+    "1F": {
+        "Zubat": {
+            "odds": 0.3,
+            "canEvolve": true,
+            "evolutions": ["Golbat", "Crobat"],
+            "type": ["Poison", "Flying"]
+        },
+        "Abra": {
+            "odds": 0.1,
+            "canEvolve" : true,
+            "evolutions": ["Kadabra", "Alakazam"],
+            "type": ["Psychic"]
+        },
+        "Geodude": {
+            "odds": 0.1,
+            "canEvolve": true,
+            "evolutions": ["Graveler", "Golem"],
+            "type": ["Rock", "Ground"]
+        },
+        "Makuhita": {
+                    "odds": 0.5,
+                    "canEvolve": true,
+                    "evolutions": "Hariyama",
+                    "type": ["Fighting"]
+                }
+
+        },
+    "Steven's Room": {
+        "Aron": {
+            "odds": 0.1,
+            "canEvolve": true,
+            "evolutions": ["Lairon","Aggron"],
+            "type": ["Steel", "Rock"]
+        },
+        "Zubat": {
+            "odds": 0.3,
+            "canEvolve": true,
+            "evolutions": ["Golbat", "Crobat"],
+            "type": ["Poison", "Flying"]
+        },
+        "Abra": {
+            "odds": 0.1,
+            "canEvolve" : true,
+            "evolutions": ["Kadabra", "Alakazam"],
+            "type": ["Psychic"]
+        },
+        "Makuhita": {
+                    "odds": 0.5,
+                    "canEvolve": true,
+                    "evolutions": "Hariyama",
+                    "type": ["Fighting"]
+                }
+
+    }
+}
