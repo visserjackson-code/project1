@@ -1,0 +1,64 @@
+{
+    "surf": {
+         "Tentacool": {
+        "odds": 0.6,
+        "canEvolve": true,
+        "evolutions": ["Tentacruel"],
+        "type": ["Water, Poison"]
+        },
+        "Wingull": {
+        "odds": 0.35,
+        "canEvolve": true,
+        "evolutions": ["Pelipper"],
+        "type": ["Water", "Flying"]
+    },
+         "Pelipper": {
+        "odds": 0.05,
+        "canEvolve": false,
+        "evolutions": [],
+        "type": ["Water", "Flying"]
+        }
+},
+    "oldRod": {
+        "Tentacool": {
+        "odds": 0.3,
+        "canEvolve": true,
+        "evolutions": ["Tentacruel"],
+        "type": ["Water, Poison"]
+        },
+         "Magikarp": {
+            "odds": 0.7,
+            "canEvolve": true,
+            "evolutions": ["Gyarados"],
+            "type": ["Water"]
+        }
+    },
+    "goodRod": {
+        "Tentacool": {
+        "odds": 0.2,
+        "canEvolve": true,
+        "evolutions": ["Tentacruel"],
+        "type": ["Water, Poison"]
+        },
+         "Magikarp": {
+            "odds": 0.6,
+            "canEvolve": true,
+            "evolutions": ["Gyarados"],
+            "type": ["Water"]
+        },
+        "Wailmer": {
+            "odds": 0.2,
+            "canEvolve": true,
+            "evolutions": ["Wailord"],
+            "type": ["Water"]
+    }
+},
+    "superRod": {
+        "Wailmer": {
+            "odds": 1,
+            "canEvolve": true,
+            "evolutions": ["Wailord"],
+            "type": ["Water"]
+    }
+}
+}
