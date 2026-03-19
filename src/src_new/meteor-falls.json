@@ -1,0 +1,57 @@
+{
+    "1F 1R": {
+        "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.8},
+        "Lunatone": {"name": "Lunatone", "location": "cave", "rate": 0.2},
+
+        "Zubat2": {"name": "Zubat", "location": "surf", "rate": 0.9},
+        "Lunatone2": {"name": "Lunatone", "location": "surf", "rate": 0.1},
+
+        "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name":"Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name":"Magikarp", "location": "goodRod", "rate": 0.6},
+        "Barboach": {"name": "Barboach", "location": "goodRod", "rate": 0.2},
+
+"       Barboach2": {"name": "Barboach", "location": "superRod", "rate": 1}
+    },
+    "1F 2R & B1F 1R": {
+        "Golbat": {"name":"Golbat", "location":"cave", "rate": 0.65},
+        "Lunatone": {"name": "Lunatone", "location": "cave", "rate": 0.35},
+
+        "Golbat2": {"name":"Golbat", "location":"surf", "rate": 0.9},
+        "Lunatone2": {"name": "Lunatone", "location": "surf", "rate": 0.1},
+
+         "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name":"Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name":"Magikarp", "location": "goodRod", "rate": 0.6},
+        "Barboach": {"name": "Barboach", "location": "goodRod", "rate": 0.2},
+
+
+        "Barboach2": {"name": "Barboach", "location": "superRod", "rate": 0.8},
+        "Whiscash": {"name": "Whiscash", "location": "superRod", "rate": 0.2}
+
+    },
+    "B1F 2R": {
+        "Golbat": {"name":"Golbat", "location":"cave", "rate": 0.5},
+        "Lunatone": {"name": "Lunatone", "location": "cave", "rate": 0.25},
+        "Bagon": {"name": "Bagon", "location": "cave", "rate": 0.25},
+
+         "Golbat2": {"name":"Golbat", "location":"surf", "rate": 0.9},
+        "Lunatone2": {"name": "Lunatone", "location": "surf", "rate": 0.1},
+
+         "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name":"Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name":"Magikarp", "location": "goodRod", "rate": 0.6},
+        "Barboach": {"name": "Barboach", "location": "goodRod", "rate": 0.2},
+
+
+        "Barboach2": {"name": "Barboach", "location": "superRod", "rate": 0.8},
+        "Whiscash": {"name": "Whiscash", "location": "superRod", "rate": 0.2}
+
+    }
+}
