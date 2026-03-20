@@ -1,0 +1,22 @@
+{
+    "Oddish": {"name": "Oddish", "loction": "longGrass", "rate": 0.3},
+    "Zigzagoon": {"name": "Zigzagoon", "location": "longGrass", "rate": 0.3},
+    "Linoone": {"name": "Linoone", "location": "longGrass", "rate": 0.3},
+    "Kecleon": {"name": "Kecleon", "location": "longGrass", "rate": 0.01},
+    "Tropius": {"name": "Tropius", "location": "longGrass", "rate": 0.09},
+
+     "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+    "Pelipper": {"name": "Pelliper", "location": "surf", "rate": 0.05},
+
+
+    "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+     "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+     "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+     "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+     "Carvanha": {"name": "Carvanha", "location": "goodRod", "rate": 0.2},
+     "Carvanha2": {"name": "Carvanha", "location": "superRod", "rate": 1},
+
+     "Feebas": {"name": "Feebas", "location": "specialTile", "rate": 0.5},
+    "Other": {"name": "Other", "location": "specialTile", "rate": 0.5}
+}
