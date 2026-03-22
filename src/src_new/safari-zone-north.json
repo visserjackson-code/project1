@@ -1,0 +1,9 @@
+{
+    "Oddish": {"name": "Oddish", "location": "grass", "rate": 0.3},
+    "Gloom": {"name": "Gloom", "location": "grass", "rate": 0.15},
+    "Natu": {"name": "Natu", "location": "grass", "rate": 0.15},
+    "Xatu": {"name": "Xatu", "location": "grass", "rate": 0.05},
+    "Heracross": {"name": "Heracross", "location": "grass", "rate": 0.05},
+    "Phanpy": {"name": "Phanpy", "location": "grass", "rate": 0.3},
+    "Geodude": {"name": "Geodude", "location": "rockSmash", "rate": 1}
+}
