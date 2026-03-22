@@ -1,0 +1,7 @@
+{
+    "Zubat": {"name": "Zubat", "location": "entrance", "rate": 0.9},
+    "Golbat": {"name": "Golbat", "location": "entrance", "rate": 0.1},
+     "Zubat2": {"name": "Zubat", "location": "1F-B3F", "rate": 0.6},
+    "Golbat2": {"name": "Golbat", "location": "1F-B3F", "rate": 0.1},
+    "Sableye": {"name": "Sableye", "loation": "1F-B3F", "rate": 0.3}
+}
