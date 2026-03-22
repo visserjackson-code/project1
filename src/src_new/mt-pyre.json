@@ -1,0 +1,14 @@
+{
+    "Shuppet": {"name": "Shuppet", "location": "1F-3F", "rate": 1},
+    "Shuppet2": {"name": "Shuppet", "location": "4F-6F", "rate": 0.9},
+    "Duskull": {"name": "Duskull", "location": "4F-6F", "rate": 0.1},
+
+    "Vulpix": {"name": "Vulpix", "location": "grass", "rate": 0.2},
+    "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.1},
+    "Meditite": {"name": "Meditite", "location": "grass", "rate": 0.3},
+    "Shuppet3": {"name": "Shuppet", "location": "grass", "rate": 0.4},
+
+    "Shuppet4": {"name": "Shuppet", "location": "summit", "rate": 0.85},
+    "Duskull2": {"name": "Duskull", "location": "summit", "rate": 0.13},
+    "Chimecho": {"name": "Chimecho", "location": "summit", "rate": 0.02}
+}
