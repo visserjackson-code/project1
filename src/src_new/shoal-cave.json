@@ -1,0 +1,18 @@
+{
+    "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.45},
+    "Golbat": {"name": "Golbat", "location": "cave", "rate": 0.05},
+    "Spheal": {"name": "Spheal", "location": "cave", "rate": 0.5},
+
+    "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Zubat2": {"name": "Zubat", "location": "surf", "rate": 0.3},
+    "Spheal2": {"name": "Spheal", "location": "surf", "rate": 0.1},
+
+    "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+    "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+    "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+    "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+}
