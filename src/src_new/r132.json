@@ -1,0 +1,7 @@
+{
+    "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+    "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+    
+}
