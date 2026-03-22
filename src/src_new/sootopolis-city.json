@@ -1,0 +1,11 @@
+{
+    "Magikarp": {"name": "Magikarp", "location": "surf", "rate": 1},
+
+    "Tentacool": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+    "Magikarp2": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+    "Magikarp3": {"name": "Magikarp", "location": "goodRod", "rate": 1},
+
+    "Magikarp4": {"name": "Magikarp", "location": "superRod", "rate": 0.8},
+    "Gyarados": {"name": "Gyarados", "location": "superRod", "rate": 0.2}
+}
