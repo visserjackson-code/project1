@@ -1,66 +1,13 @@
 {
-    "grass": {
-        "Zigzagoon": {
-        "odds": 0.5,
-        "canEvolve": true,
-        "evolutions": ["Linoone"],
-        "type": ["Normal"]
-    },
-        "Wurmple": {
-         "odds": 0.3,
-         "canEvolve": true,
-         "evolutions": ["Silcoon", "Beautifly", "Cascoon", "Dustox"],
-         "type": ["Bug"]
-        },
-        "Wingull": {
-        "odds": 0.1,
-        "canEvolve": true,
-        "evolutions": ["Pelipper"],
-        "type": ["Water", "Flying"]
-        },
-        "Tailow": {
-        "odds": 0.1,
-        "canEvolve": true,
-        "evolutions": ["Swellow"],
-        "type": ["Normal", "Flying"]
-        }  
-    },
-    "surf": {
-        "Wingull": {
-        "odds": 0.95,
-        "canEvolve": true,
-        "evolutions": ["Pelipper"],
-        "type": ["Water", "Flying"]
-        },
-        "Pelipper": {
-        "odds": 0.05,
-        "canEvolve": false,
-        "evolutions": [],
-        "type": ["Water", "Flying"]
-        }
-    },
-    "oldRod": {
-        "Magikarp": {
-        "odds": 1,
-        "canEvolve": true,
-        "evolutions": ["Gyarados"],
-        "type": ["Water"]
-       }
-    },
-    "goodRod": {
-         "Magikarp": {
-        "odds": 1,
-        "canEvolve": true,
-        "evolutions": ["Gyarados"],
-        "type": ["Water"]
-       }
-    },
-    "superRod": {
-         "Magikarp": {
-        "odds": 1,
-        "canEvolve": true,
-        "evolutions": ["Gyarados"],
-        "type": ["Water"]
-       }
-    }
+    "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.5},
+    "Wurmple": {"name": "Wurmple", "location": "grass", "rate": 0.3},
+    "Tailow": {"name": "Tailow", "location": "grass", "rate": 0.1},
+    "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.1},
+
+    "Wingull2": {"name": "Wingull2", "location": "surf", "rate": 0.95},
+    "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 1},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 1},
+    "Magikarp3": {"name": "Magikarp", "location": "superRod", "rate": 1}
 }

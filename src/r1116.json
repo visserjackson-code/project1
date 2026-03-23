@@ -1,35 +1,7 @@
 {
-    "grass": {
-            "Zigzagoon": {
-            "odds": 0.28,
-            "canEvolve": true,
-            "evolutions": ["Linoone"],
-            "type": ["Normal"]
-            },
-            "Tailow": {
-            "odds": 0.2,
-            "canEvolve": true,
-            "evolutions": ["Swellow"],
-            "type": ["Normal", "Flying"]
-            },
-            "Nincada": {
-            "odds": 0.2,
-            "canEvolve": true,
-            "evolutions": ["Ninjask", "Shedinja"],
-            "type": ["Bug", "Ground"]
-            },
-            "Whismur": {
-            "odds": 0.3,
-            "canEvolve": true,
-            "evolutions": ["Loudred", "Exploud"],
-            "type": ["Normal"]
-            },
-            "Skitty": {
-            "odds": 0.02,
-            "canEvolve": true,
-            "evolutions": ["Delcatty"],
-            "type": ["Normal"]
-            }
-
-    }
+    "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.28},
+    "Tailow": {"name": "Tailow", "location": "grass", "rate": 0.2},
+    "Nincada": {"name": "Nincada", "location": "grass", "rate": 0.2},
+    "Whismur": {"name": "Whismur", "location": "grass", "rate": 0.3},
+    "Skitty": {"name": "Skitty", "location": "grass", "rate": 0.02}
 }

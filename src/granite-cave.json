@@ -1,129 +1,31 @@
 {
     "1F": {
-        "Zubat": {
-            "odds": 0.3,
-            "canEvolve": true,
-            "evolutions": ["Golbat", "Crobat"],
-            "type": ["Poison", "Flying"]
-        },
-        "Abra": {
-            "odds": 0.1,
-            "canEvolve" : true,
-            "evolutions": ["Kadabra", "Alakazam"],
-            "type": ["Psychic"]
-        },
-        "Geodude": {
-            "odds": 0.1,
-            "canEvolve": true,
-            "evolutions": ["Graveler", "Golem"],
-            "type": ["Rock", "Ground"]
-        },
-        "Makuhita": {
-                    "odds": 0.5,
-                    "canEvolve": true,
-                    "evolutions": "Hariyama",
-                    "type": ["Fighting"]
-                }
+        "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.3},
 
+        "Abra": {"name": "Abra", "location": "cave", "rate": 0.1},
+        "Geodude": {"name": "Geodude", "location": "cave", "rate": 0.1},
+        "Makuhita": {"name": "Makuhita", "location": "cave", "rate": 0.5}
         },
     "Steven's Room": {
-        "Aron": {
-            "odds": 0.1,
-            "canEvolve": true,
-            "evolutions": ["Lairon","Aggron"],
-            "type": ["Steel", "Rock"]
+        "Aron": {"name": "Aron", "location": "cave", "rate": 0.1},
+        "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.3},
+        "Abra": {"name": "Abra", "location": "cave", "rate": 0.1},
+        "Makuhita": {"name": "Makuhita", "location": "cave", "rate": 0.5}
         },
-        "Zubat": {
-            "odds": 0.3,
-            "canEvolve": true,
-            "evolutions": ["Golbat", "Crobat"],
-            "type": ["Poison", "Flying"]
-        },
-        "Abra": {
-            "odds": 0.1,
-            "canEvolve" : true,
-            "evolutions": ["Kadabra", "Alakazam"],
-            "type": ["Psychic"]
-        },
-        "Makuhita": {
-                    "odds": 0.5,
-                    "canEvolve": true,
-                    "evolutions": "Hariyama",
-                    "type": ["Fighting"]
-                }
-
-    },
     "B1F": {
-         "Zubat": {
-            "odds": 0.3,
-            "canEvolve": true,
-            "evolutions": ["Golbat", "Crobat"],
-            "type": ["Poison", "Flying"]
-        },
-         "Abra": {
-            "odds": 0.1,
-            "canEvolve" : true,
-            "evolutions": ["Kadabra", "Alakazam"],
-            "type": ["Psychic"]
-        },
-        "Makuhita": {
-            "odds": 0.1,
-            "canEvolve": true,
-             "evolutions": "Hariyama",
-            "type": ["Fighting"]
-        },
-         "Aron": {
-            "odds": 0.4,
-            "canEvolve": true,
-            "evolutions": ["Lairon","Aggron"],
-            "type": ["Steel", "Rock"]
-        },
-        "Sableye": {
-            "odds": 0.1,
-            "canEvolve": false,
-            "evolutions": [],
-            "type": ["Ghost", "Dark"]
-        } 
+         "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.3},
+        "Abra": {"name": "Abra", "location": "cave", "rate": 0.1},
+        "Makuhita": {"name": "Makuhita", "location": "cave", "rate": 0.1},
+        "Aron": {"name": "Aron", "location": "cave", "rate": 0.4},
+        "Sableye": {"name": "Sableye", "location": "cave", "rate": 0.1}
     },
-    "B2F Cave": {
-         "Zubat": {
-            "odds": 0.3,
-            "canEvolve": true,
-            "evolutions": ["Golbat", "Crobat"],
-            "type": ["Poison", "Flying"]
-        },
-          "Abra": {
-            "odds": 0.1,
-            "canEvolve" : true,
-            "evolutions": ["Kadabra", "Alakazam"],
-            "type": ["Psychic"]
-        },
-        "Sableye": {
-            "odds": 0.2,
-            "canEvolve": false,
-            "evolutions": [],
-            "type": ["Ghost", "Dark"]
-        },
-         "Aron": {
-            "odds": 0.4,
-            "canEvolve": true,
-            "evolutions": ["Lairon","Aggron"],
-            "type": ["Steel", "Rock"]
-        }
-    },
-    "B2F Rock Smash": {
-            "Geodude": {
-            "odds": 0.7,
-            "canEvolve": true,
-            "evolutions": ["Graveler", "Golem"],
-            "type": ["Rock", "Ground"]
-        },
-            "Nosepass": {
-                "odds": 0.3,
-                "canEvolve": false,
-                "evolutions": [],
-                "type": ["Rock"]
-            }
-            
-        }
+    "B2F": {
+        "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.3},
+        "Abra": {"name": "Abra", "location": "cave", "rate": 0.1},
+        "Sableye": {"name": "Sableye", "location": "cave", "rate": 0.2},
+        "Aron": {"name": "Aron", "location": "cave", "rate": 0.4},
+        "Geodude": {"name": "Geodude", "location": "rockSmash", "rate": 0.7},
+        "Nosepass": {"name": "Nosepass", "location": "rockSmash", "rate": 0.3}
+        
+    } 
 }

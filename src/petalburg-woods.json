@@ -1,45 +1,9 @@
 {
-    "grass": {
-        "Zigzagoon": {
-            "odds": 0.3,
-            "canEvolve": true,
-            "evolutions": ["Linoone"],
-            "type": ["Normal"]
-        },
-        "Wurmple": {
-            "odds": 0.25,
-            "canEvolve": true,
-            "evolutions": ["Silcoon", "Beautifly", "Cascoon", "Dustox"],
-            "type": ["Bug"]
-        },
-        "Silcoon": {
-            "odds": 0.1,
-            "canEvolve": true,
-            "evolutions": ["Beautifly"],
-            "type": ["Bug"]
-        },
-        "Cascoon": {
-            "odds": 0.1,
-            "canEvolve": true,
-            "evolutions": ["Dustox"],
-            "type": ["Bug"]
-        },
-        "Tailow": {
-            "odds": 0.05,
-            "canEvolve": true,
-            "evolutions": ["Swellow"],
-            "type": ["Normal", "Flying"]
-        },
-        "Shroomish": {
-            "odds": 0.15,
-            "canEvolve": true,
-            "evolutions": ["Breloom"],
-            "type": ["Grass"]
-        },
-        "Skaloth": {
-            "odds": 0.05,
-            "canEvolve": true,
-            "evolutions": ["Vigoroth", "Slaking"]
-        }
-}
+    "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.3},
+    "Wurmple": {"name": "Wurmple", "location": "grass", "rate": 0.25},
+    "Silcoon": {"name": "Silcoon", "location": "grass", "rate": 0.1},
+    "Cascoon": {"name": "Cascoon", "location": "grass", "rate": 0.1},
+    "Tailow": {"name": "Tailow", "location": "grass", "rate": 0.05},
+    "Slakoth": {"name": "Slakoth", "location": "grass", "rate": 0.05},
+    "Shroomish": {"name": "Shroomish", "location": "grass", "rate": 0.15}
 }

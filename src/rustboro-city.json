@@ -1,12 +1,3 @@
 {
-    "trade":
-            {
-                "Makuhita": {
-                    "odds": "N/A",
-                    "tradeFor": "Skaloth",
-                    "canEvolve": true,
-                    "evolutions": "Hariyama",
-                    "type": ["Fighting"]
-                }
-            }
+    "Makuhita": {"name": "Makuhita", "location": "trade", "rate": "N/A"}
 }

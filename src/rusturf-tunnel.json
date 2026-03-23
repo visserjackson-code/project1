@@ -1,8 +1,3 @@
 {
-    "Whismur": {
-            "odds": 1,
-            "canEvolve": true,
-            "evolutions": ["Loudred", "Exploud"],
-            "type": ["Normal"]
-            }
+    "Whismur": {"name": "Whismur", "location": "cave", "rate": 1}
 }
