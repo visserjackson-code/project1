@@ -1,94 +1,23 @@
 {
-    "grass":
-     {
-        "Poochyena": {
-        "odds": 0.3,
-        "canEvolve": true,
-        "evolutions": ["Mightyena"],
-        "type": ["Dark"]
-    },
-    "Zigzagoon": {
-        "odds": 0.6,
-        "canEvolve": true,
-        "evolutions": ["Linoone"],
-        "type": ["Normal"]
-    },
-    "Wingull": {
-        "odds": 0.1,
-        "canEvolve": true,
-        "evolutions": ["Pelipper"],
-        "type": ["Water", "Flying"]
-    }
-    },
-    "surf": 
-    {
-       "Tentacool": {
-        "odds": 0.6,
-        "canEvolve": true,
-        "evolutions": ["Tentacruel"],
-        "type": ["Water", "Poison"]
-       },
-       "Wingull": {
-        "odds": 0.35,
-        "canEvolve": true,
-        "evolutions": ["Pelipper"],
-        "type": ["Water", "Flying"]
-    },
-        "Pelipper": {
-        "odds": 0.35,
-        "canEvolve": false,
-        "evolutions": [],
-        "type": ["Water", "Flying"]
-    }
-},
-    "oldRod": {
-        "Tentacool": {
-        "odds": 0.7,
-        "canEvolve": true,
-        "evolutions": ["Tentacruel"],
-        "type": ["Water", "Poison"]
-       },
-        "Magikarp": {
-        "odds": 0.3,
-        "canEvolve": true,
-        "evolutions": ["Gyrados"],
-        "type": ["Water"]
-        }
-    },
-    "goodRod": {
-         "Tentacool": {
-        "odds": 0.2,
-        "canEvolve": true,
-        "evolutions": ["Tentacruel"],
-        "type": ["Water", "Poison"]
-       },
-        "Magikarp": {
-        "odds": 0.6,
-        "canEvolve": true,
-        "evolutions": ["Gyarados"],
-        "type": ["Water"]
-       },
-        "Wailmer": {
-            "odds": 0.2,
-            "canEvolve": true,
-            "evolutions": ["Wailord"],
-            "type": ["Water"]
-        }
-    },
-    "superRod": {
-        "Wailmer": {
-            "odds": 0.6,
-            "canEvolve": true,
-            "evolutions": ["Wailord"],
-            "type": ["Water"]
-        },
-        "Sharpedo": {
-            "odds": 0.4,
-            "canEvolve": false,
-            "evolutions": [],
-            "type": ["Water", "Dark"]
-        } 
-    }
+   
+    "Poocheyena": {"name": "Poocheyena", "location": "grass", "rate": 0.3},
+    "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.6},
+    "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.1},
+
+    "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+    "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+    "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+    "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+    "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+    "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+    "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.6}
+    
 
 }
 

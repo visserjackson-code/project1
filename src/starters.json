@@ -1,20 +1,5 @@
 {
-    "Treecko": {
-        "odds": "N/A",
-        "canEvolve": true,
-        "evolutions": ["Grovyle", "Sceptile"],
-        "type": ["Grass"]
-    },
-    "Torchic": {
-        "odds": "N/A",
-        "canEvolve": true,
-        "evolutions": ["Combusken", "Blaziken"],
-        "type": ["Fire"]
-    },
-    "Mudkip": {
-        "odds": "N/A",
-        "canEvolve": true,
-        "evolutions": ["Marshtomp", "Swampert"],
-        "type": ["Water"]
-    }
+   "Treecko": {"name": "Treecko", "location": "gift", "rate": "N/A"},
+   "Torchic": {"name": "Torchic", "location": "gift", "rate": "N/A"},
+   "Mudkip": {"name": "Mudkip", "location": "gift", "rate": "N/A"}
 }

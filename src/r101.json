@@ -1,20 +1,6 @@
 {
-    "Poochyena": {
-        "odds": 0.1,
-        "canEvolve": true,
-        "evolutions": ["Mightyena"],
-        "type": ["Dark"]
-    },
-    "Zigzagoon": {
-        "odds": 0.45,
-        "canEvolve": true,
-        "evolutions": ["Linoone"],
-        "type": ["Normal"]
-    },
-    "Wurmple": {
-        "odds": 0.45,
-        "canEvolve": true,
-        "evolutions": ["Silcoon", "Beautifly", "Cascoon", "Dustox"],
-        "type": ["Bug"]
-    }
+    "Poochyena": { "name": "Poochyena", "location": "grass", "rate": 0.1},
+    "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.45},
+    "Wurmple": {"name": "Wurmple", "location": "grass", "rate": 0.45}
+  
 }
