@@ -1,8 +1,0 @@
-{
-    "Magnemite": {"name": "Magnemite", "location": "entrance", "rate": 0.5},
-    "Voltorb": {"name": "Voltorb", "location": "entrance", "rate": 0.5},
-    "Magnemite2": {"name": "Magnemite", "location": "basement", "rate": 0.49},
-    "Magneton": {"name": "Magneton", "location": "basement", "rate": 0.01},
-    "Voltorb2": {"name": "Voltorb", "location": "basement", "rate": 0.49},
-    "Electrode": {"name": "Voltorb", "location": "entrance", "rate": 0.01}
-}

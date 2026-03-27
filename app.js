@@ -1,0 +1,1 @@
+//fetch json on page load and store inside variable

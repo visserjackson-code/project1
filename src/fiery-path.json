@@ -1,9 +1,0 @@
-{
-    "Machop": {"name": "Machop", "location": "cave", "rate": 0.15},
-    "Grimer": {"name": "Grimer", "location": "cave", "rate": 0.25},
-    "Koffing": {"name": "Koffing", "location": "cave", "rate": 0.02},
-    "Slugma": {"name": "Slugma", "location": "cave", "rate": 0.1},
-    "Numel": {"name": "Numel", "location": "cave", "rate": 0.3},
-    "Torkoal": {"name": "Torkoal", "location": "cave", "rate": 0.18}
-    
-}

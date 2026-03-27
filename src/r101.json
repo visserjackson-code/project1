@@ -1,6 +1,0 @@
-{
-    "Poochyena": { "name": "Poochyena", "location": "grass", "rate": 0.1},
-    "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.45},
-    "Wurmple": {"name": "Wurmple", "location": "grass", "rate": 0.45}
-  
-}

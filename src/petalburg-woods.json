@@ -1,9 +1,0 @@
-{
-    "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.3},
-    "Wurmple": {"name": "Wurmple", "location": "grass", "rate": 0.25},
-    "Silcoon": {"name": "Silcoon", "location": "grass", "rate": 0.1},
-    "Cascoon": {"name": "Cascoon", "location": "grass", "rate": 0.1},
-    "Tailow": {"name": "Tailow", "location": "grass", "rate": 0.05},
-    "Slakoth": {"name": "Slakoth", "location": "grass", "rate": 0.05},
-    "Shroomish": {"name": "Shroomish", "location": "grass", "rate": 0.15}
-}

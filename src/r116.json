@@ -1,7 +1,0 @@
-{
-    "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.28},
-    "Tailow": {"name": "Tailow", "location": "grass", "rate": 0.2},
-    "Nincada": {"name": "Nincada", "location": "grass", "rate": 0.2},
-    "Whismur": {"name": "Whismur", "location": "grass", "rate": 0.3},
-    "Skitty": {"name": "Skitty", "location": "grass", "rate": 0.02}
-}
