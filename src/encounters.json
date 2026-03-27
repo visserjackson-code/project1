@@ -1,0 +1,956 @@
+{
+    "starters": {
+        "Treecko": {"name": "Treecko", "location": "gift", "rate": "N/A"},
+        "Torchic": {"name": "Torchic", "location": "gift", "rate": "N/A"},
+        "Mudkip": {"name": "Mudkip", "location": "gift", "rate": "N/A"}
+    },
+    "r101": {
+        "Poochyena": { "name": "Poochyena", "location": "grass", "rate": 0.1},
+        "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.45},
+        "Wurmple": {"name": "Wurmple", "location": "grass", "rate": 0.45}
+    },
+    "r103": {
+        "Poocheyena": {"name": "Poocheyena", "location": "grass", "rate": 0.3},
+        "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.6},
+        "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.1},
+
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+        "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.6}
+    },
+    "r102": {
+        "Poochyena": {"name": "Poocheyena", "location": "grass", "rate": 0.15},
+        "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.3},
+        "Wurmple": {"name": "Wurmple", "location": "grass", "rate": 0.3},
+        "Lotad": {"name": "Lotad", "location": "grass", "rate": 0.2},
+        "Ralts": {"name": "Ralts", "location": "grass", "rate": 0.04},
+        "Surskit": {"name": "Surskit", "location": "grass", "rate": 0.01},
+
+        "Marill": {"name": "Marill", "location": "surf", "rate": 0.99},
+        "Surskit2": {"name": "Surskit2", "location": "surf", "rate": 0.01},
+
+        "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Corphish": {"name": "Corphish", "location": "goodRod", "rate": 0.2},
+
+        "Corphish2": {"name": "Corphish", "location": "superRod", "rate": 1}
+    },
+    "petalburg-city": {
+        "Marill": {"name": "Marill", "location": "surf", "rate": 1},
+
+        "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Corphish": {"name": "Corphish", "location": "goodRod", "rate": 0.2},
+
+        "Corphish2": {"name": "Corphish", "location": "superRod", "rate": 1}
+    },
+    "r104": {
+        "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.5},
+        "Wurmple": {"name": "Wurmple", "location": "grass", "rate": 0.3},
+        "Tailow": {"name": "Tailow", "location": "grass", "rate": 0.1},
+        "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.1},
+
+        "Wingull2": {"name": "Wingull2", "location": "surf", "rate": 0.95},
+        "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 1},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 1},
+        "Magikarp3": {"name": "Magikarp", "location": "superRod", "rate": 1}
+    },
+    "petalburg-woods": {
+         "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.3},
+        "Wurmple": {"name": "Wurmple", "location": "grass", "rate": 0.25},
+        "Silcoon": {"name": "Silcoon", "location": "grass", "rate": 0.1},
+        "Cascoon": {"name": "Cascoon", "location": "grass", "rate": 0.1},
+        "Tailow": {"name": "Tailow", "location": "grass", "rate": 0.05},
+        "Slakoth": {"name": "Slakoth", "location": "grass", "rate": 0.05},
+        "Shroomish": {"name": "Shroomish", "location": "grass", "rate": 0.15}
+    },
+    "rustboro-city": {
+        "Makuhita": {"name": "Makuhita", "location": "trade", "rate": "N/A"}
+    },
+    "r116": {
+        "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.28},
+        "Tailow": {"name": "Tailow", "location": "grass", "rate": 0.2},
+        "Nincada": {"name": "Nincada", "location": "grass", "rate": 0.2},
+        "Whismur": {"name": "Whismur", "location": "grass", "rate": 0.3},
+        "Skitty": {"name": "Skitty", "location": "grass", "rate": 0.02}
+    },
+    "rusturf-tunnel": {
+        "Whismur": {"name": "Whismur", "location": "cave", "rate": 1}
+    },
+    "r105": {
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "loation": "surf", "rate": 0.05},
+
+        "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+    },
+    "dewford-town": {
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "loation": "surf", "rate": 0.05},
+
+        "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+    },
+    "r106": {
+         "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "loation": "surf", "rate": 0.05},
+
+        "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+    },
+    "granite-cave": {
+            "1F": {
+                "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.3},
+
+                "Abra": {"name": "Abra", "location": "cave", "rate": 0.1},
+                "Geodude": {"name": "Geodude", "location": "cave", "rate": 0.1},
+                "Makuhita": {"name": "Makuhita", "location": "cave", "rate": 0.5}
+        },
+            "Steven's Room": {
+                "Aron": {"name": "Aron", "location": "cave", "rate": 0.1},
+                "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.3},
+                "Abra": {"name": "Abra", "location": "cave", "rate": 0.1},
+                "Makuhita": {"name": "Makuhita", "location": "cave", "rate": 0.5}
+        },
+            "B1F": {
+                "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.3},
+                "Abra": {"name": "Abra", "location": "cave", "rate": 0.1},
+                "Makuhita": {"name": "Makuhita", "location": "cave", "rate": 0.1},
+                "Aron": {"name": "Aron", "location": "cave", "rate": 0.4},
+                "Sableye": {"name": "Sableye", "location": "cave", "rate": 0.1}
+        },
+            "B2F": {
+                "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.3},
+                "Abra": {"name": "Abra", "location": "cave", "rate": 0.1},
+                "Sableye": {"name": "Sableye", "location": "cave", "rate": 0.2},
+                "Aron": {"name": "Aron", "location": "cave", "rate": 0.4},
+                "Geodude": {"name": "Geodude", "location": "rockSmash", "rate": 0.7},
+                "Nosepass": {"name": "Nosepass", "location": "rockSmash", "rate": 0.3}
+         } 
+    },
+    "r107": {
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "loation": "surf", "rate": 0.05},
+
+        "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+    },
+    "r109": {
+         "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "loation": "surf", "rate": 0.05},
+
+        "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+    },
+    "slateport-city": {
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "loation": "surf", "rate": 0.05},
+
+        "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+    },
+    "r110": {
+        "Oddish": {"name": "Oddish", "location": "grass", "rate": 0.1},
+        "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.2},
+        "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.08},
+        "Electrike": {"name": "Electrike", "location": "grass", "rate": 0.3},
+        "Plusle": {"name": "Plusle", "location": "grass", "rate": 0.15},
+        "Minun": {"name": "Minun", "location": "grass", "rate": 0.02},
+        "Gulpin": {"name": "Gulpin", "location": "grass", "rate": 0.15},
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "loation": "surf", "rate": 0.05},
+        "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+        "Wailmer2": {"name": "Wailmer", "location": "goodRod", "rate": 1}
+    },
+    "new-mauville": {
+        "Magnemite": {"name": "Magnemite", "location": "entrance", "rate": 0.5},
+        "Voltorb": {"name": "Voltorb", "location": "entrance", "rate": 0.5},
+        "Magnemite2": {"name": "Magnemite", "location": "basement", "rate": 0.49},
+        "Magneton": {"name": "Magneton", "location": "basement", "rate": 0.01},
+        "Voltorb2": {"name": "Voltorb", "location": "basement", "rate": 0.49},
+        "Electrode": {"name": "Voltorb", "location": "entrance", "rate": 0.01}
+    },
+    "r117": {
+        "Oddish": {"name": "Oddish", "location": "grass", "rate": 0.1},
+        "Marill": {"name": "Marill", "location": "grass", "rate": 0.1},
+        "Zigzagoon":{"name": "Zigzagoon", "location": "grass", "rate": 0.3},
+        "Surskit":{"name": "Surskit", "location": "grass", "rate": 0.01},
+        "Volbeat":{"name": "Volbeat", "location": "grass", "rate": 0.18},
+        "Illumise":{"name": "Illumise", "location": "grass", "rate": 0.01},
+        "Roselia":{"name": "Roselia", "location": "grass", "rate": 0.30},
+        "Marill2": {"name": "Marill", "location": "surf", "rate": 0.99},
+        "Surskit2":{"name": "Surskit", "location": "surf", "rate": 0.01},
+        "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Corphish": {"name": "Corphish", "location": "goodRod", "rate": 0.2},
+        "Corphish2": {"name": "Corphish", "location": "superRod", "rate": 1}
+    },
+    "r112": {
+        "Machop": {"name": "Machop", "location": "grass", "rate": 0.25},
+        "Numel": {"name": "Numel", "location": "grass", "rate": 0.75}
+    },
+    "r113": {
+        "Sandshrew": {"name": "Sandshrew", "location": "grass", "rate": 0.25},
+        "Skarmory": {"name": "Skarmory", "location": "grass", "rate": 0.05},
+        "Spinda": {"name": "Spinda", "location": "grass", "rate": 0.7}
+    },
+    "r114": {
+        "Lotad": {"name": "Lotad", "location":"grass", "rate": 0.30},
+        "Lombre": {"name": "Lombre", "location":"grass", "rate": 0.10},
+        "Surskit": {"name": "Surskit", "location": "grass", "rate": 0.01},
+        "Swablu": {"name": "Swablu", "location": "grass", "rate": 0.40},
+        "Seviper": {"name": "Seviper", "location": "grass", "rate": 0.19},
+
+        "Geodude": {"name": "Geodude", "location": "rockSmash", "rate": 1},
+
+        "Marill": {"name": "Marill", "location": "surf", "rate": 0.99},
+        "Surskit2": {"name": "Surskit", "location": "surf", "rate": 0.01},
+
+        "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name":"Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name":"Magikarp", "location": "goodRod", "rate": 0.6},
+        "Barboach": {"name": "Barboach", "location": "goodRod", "rate": 0.2},
+
+        "Barboach2": {"name": "Barboach", "location": "superRod", "rate": 1}
+    },
+    "meteor-falls": {
+            "1F 1R": {
+        "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.8},
+        "Lunatone": {"name": "Lunatone", "location": "cave", "rate": 0.2},
+
+        "Zubat2": {"name": "Zubat", "location": "surf", "rate": 0.9},
+        "Lunatone2": {"name": "Lunatone", "location": "surf", "rate": 0.1},
+
+        "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name":"Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name":"Magikarp", "location": "goodRod", "rate": 0.6},
+        "Barboach": {"name": "Barboach", "location": "goodRod", "rate": 0.2},
+
+        "Barboach2": {"name": "Barboach", "location": "superRod", "rate": 1}
+    },
+            "1F 2R & B1F 1R": {
+        "Golbat": {"name":"Golbat", "location":"cave", "rate": 0.65},
+        "Lunatone": {"name": "Lunatone", "location": "cave", "rate": 0.35},
+
+        "Golbat2": {"name":"Golbat", "location":"surf", "rate": 0.9},
+        "Lunatone2": {"name": "Lunatone", "location": "surf", "rate": 0.1},
+
+         "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name":"Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name":"Magikarp", "location": "goodRod", "rate": 0.6},
+        "Barboach": {"name": "Barboach", "location": "goodRod", "rate": 0.2},
+
+
+        "Barboach2": {"name": "Barboach", "location": "superRod", "rate": 0.8},
+        "Whiscash": {"name": "Whiscash", "location": "superRod", "rate": 0.2}
+
+    },
+            "B1F 2R": {
+        "Golbat": {"name":"Golbat", "location":"cave", "rate": 0.5},
+        "Lunatone": {"name": "Lunatone", "location": "cave", "rate": 0.25},
+        "Bagon": {"name": "Bagon", "location": "cave", "rate": 0.25},
+
+         "Golbat2": {"name":"Golbat", "location":"surf", "rate": 0.9},
+        "Lunatone2": {"name": "Lunatone", "location": "surf", "rate": 0.1},
+
+         "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name":"Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name":"Magikarp", "location": "goodRod", "rate": 0.6},
+        "Barboach": {"name": "Barboach", "location": "goodRod", "rate": 0.2},
+
+
+        "Barboach2": {"name": "Barboach", "location": "superRod", "rate": 0.8},
+        "Whiscash": {"name": "Whiscash", "location": "superRod", "rate": 0.2}
+
+    }
+    },
+    "r115": {
+        "Jigglypuff": {"name": "Jigglypuff", "location": "grass", "rate": 0.1},
+         "Tailow": {"name": "Tailow", "location": "grass", "rate": 0.4},
+        "Swellow": {"name": "Swellow", "location": "grass", "rate": 0.1},
+        "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.1},
+        "Swablu": {"name": "Swablu", "location": "grass", "rate": 0.3},
+    
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "loation": "surf", "rate": 0.05},
+
+        "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+    },
+    "jagged-pass": {
+        "Machop": {"name": "Machop", "location": "grass", "rate": 0.25},
+        "Numel": {"name": "Numel", "location": "grass", "rate": 0.55},
+        "Spoink": {"name": "Spoink", "location": "grass", "rate": 0.25}
+    },
+    "lavaridge-town": {
+         "Wynaut": {"name": "Wynaut", "location": "gift", "rate": 1}
+    },
+    "fiery-path": {
+        "Machop": {"name": "Machop", "location": "cave", "rate": 0.15},
+        "Grimer": {"name": "Grimer", "location": "cave", "rate": 0.25},
+        "Koffing": {"name": "Koffing", "location": "cave", "rate": 0.02},
+        "Slugma": {"name": "Slugma", "location": "cave", "rate": 0.1},
+        "Numel": {"name": "Numel", "location": "cave", "rate": 0.3},
+        "Torkoal": {"name": "Torkoal", "location": "cave", "rate": 0.18}
+    },
+    "r111": {
+         "Sandshrew": {"name": "Sandshrew", "location": "deepSand", "rate": 0.35},
+        "Trapinch": {"name": "Trapinch", "location": "deepSand", "rate": 0.35},
+        "Cacnea": {"name": "Cacnea", "location": "deepSand", "rate": 0.2},
+        "Baltoy": {"name": "Baltoy", "location": "deepSand", "rate": 0.1},
+
+        "Geodude": {"name": "Geodude", "location": "rockSmash", "rate": 1},
+
+        "Marill": {"name": "Marill", "location": "surf", "rate": 0.99},
+        "Surskit": {"name": "Surskit", "location": "surf", "rate": 0.01},
+
+
+        "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name":"Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name":"Magikarp", "location": "goodRod", "rate": 0.6},
+        "Barboach": {"name": "Barboach", "location": "goodRod", "rate": 0.2},
+
+        "Barboach2": {"name": "Barboach", "location": "superRod", "rate": 1}
+    },
+    "r118": {
+        "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.3},
+        "Linoone": {"name": "Linoone", "location": "grass", "rate": 0.1},
+        "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.19},
+        "Electrike": {"name": "Electrike", "location": "grass", "rate": 0.3},
+        "Manectric": {"name": "Manectric", "location": "grass", "rate": 0.1},
+        "Kecleon": {"name": "Kecleon", "location": "grass", "rate": 0.01},
+
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelliper", "location": "surf", "rate": 0.05},
+
+        "Tentacool3": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+        "Tentacool4": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Carvanha": {"name": "Carvanha", "location": "goodRod", "rate": 0.2},
+        "Carvanha2": {"name": "Carvanha", "location": "superRod", "rate": 0.6},
+        "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4}
+    },
+    "r119": {
+       "Oddish": {"name": "Oddish", "loction": "longGrass", "rate": 0.3},
+        "Zigzagoon": {"name": "Zigzagoon", "location": "longGrass", "rate": 0.3},
+        "Linoone": {"name": "Linoone", "location": "longGrass", "rate": 0.3},
+        "Kecleon": {"name": "Kecleon", "location": "longGrass", "rate": 0.01},
+        "Tropius": {"name": "Tropius", "location": "longGrass", "rate": 0.09},
+
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelliper", "location": "surf", "rate": 0.05},
+
+
+        "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Carvanha": {"name": "Carvanha", "location": "goodRod", "rate": 0.2},
+        "Carvanha2": {"name": "Carvanha", "location": "superRod", "rate": 1},
+
+        "Feebas": {"name": "Feebas", "location": "specialTile", "rate": 0.5} 
+    },
+    "fortree-city": {
+        "Skity": {"name": "Skitty", "location": "trade", "odds": "N/A"}
+    },
+     "weather-institute": {
+            "Castform": {"name": "Castform", "location": "gift", "odds": 1}
+    },
+    "r120": {
+        "Oddish": {"name": "Oddish", "location": "longGrass", "rate": 0.25},
+        "Marill": {"name": "Marill", "location": "longGrass", "rate": 0.15},
+        "Zigzagoon": {"name": "Zigzagoon", "location": "longGrass", "rate": 0.2},
+        "Linoone": {"name": "Linoone", "location": "longGrass", "rate": 0.3},
+        "Surskit": {"name": "Surskit", "location": "longGrass", "rate": 0.01},
+        "Kecleon": {"name": "Kecleon", "location": "longGrass", "rate": 0.01},
+        "Absol": {"name": "Absol", "location": "longGrass", "rate": 0.08},
+
+        "Marill2": {"name": "Marill", "location": "surf", "rate": 0.99},
+        "Surskit2": {"name": "Surskit", "location": "surf", "rate": 0.01},
+
+        "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Barboach": {"name": "Barboach", "location": "goodRod", "rate": 0.2},
+
+        "Barboach2": {"name": "Barboach", "location": "superRod", "rate": 1}
+    },
+    "r121": {
+            "Oddish": {"name": "Oddish", "location": "grass", "rate": 0.15},
+            "Gloom": {"name": "Gloom", "location": "grass", "rate": 0.05},
+             "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.2},
+            "Linoone": {"name": "Linoone", "location": "grass", "rate": 0.2},
+            "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.09},
+            "Kecleon": {"name": "Kecleon", "location": "grass", "rate": 0.01},
+            "Shuppet": {"name": "Shuppet", "location": "grass", "rate": 0.30},
+
+            "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+            "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+            "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+            "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+            "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+            "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+            "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+            "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+            "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+    },
+    "safari-zone-central": {
+        "Pikachu": {"name": "Pikachu", "location": "grass", "rate": 0.05},
+        "Oddish": {"name": "Oddish", "location": "grass", "rate": 0.4},
+        "Gloom": {"name": "Gloom", "location": "grass", "rate": 0.05},
+        "Doduo": {"name": "Doduo", "location": "grass", "rate": 0.1},
+        "Natu": {"name": "Natu", "location": "grass", "rate": 0.1},
+        "Girafarig": {"name": "Girafarig", "location": "grass", "rate": 0.2},
+        "Wobbuffet": {"name": "Wobbuffet", "location": "grass", "rate": 0.1}
+    },
+    "safari-zone-north": {
+        "Oddish": {"name": "Oddish", "location": "grass", "rate": 0.3},
+        "Gloom": {"name": "Gloom", "location": "grass", "rate": 0.15},
+        "Natu": {"name": "Natu", "location": "grass", "rate": 0.15},
+        "Xatu": {"name": "Xatu", "location": "grass", "rate": 0.05},
+        "Heracross": {"name": "Heracross", "location": "grass", "rate": 0.05},
+        "Phanpy": {"name": "Phanpy", "location": "grass", "rate": 0.3},
+        "Geodude": {"name": "Geodude", "location": "rockSmash", "rate": 1}
+    },
+    "safari-zone-northwest": {
+         "Oddish": {"name": "Oddish", "location": "grass", "rate": 0.3},
+        "Gloom": {"name": "Gloom", "location": "grass", "rate": 0.15},
+        "Doduo": {"name": "Doduo", "location": "grass", "rate": 0.15},
+        "Dodrio": {"name": "Dodrio", "location": "grass", "rate": 0.05},
+        "Rhyhorn": {"name": "Rhyhorn", "location": "grass", "rate": 0.3},
+        "Pinsir": {"name": "Pinsir", "location": "grass", "rate": 0.05},
+
+        "Psyduck": {"name": "Psyduck", "location": "surf", "rate": 0.95},
+        "Golduck": {"name": "Golduck", "location": "surf", "rate": 0.05},
+
+        "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.4},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+
+        "Goldeen3": {"name": "Goldeen", "location": "superRod", "rate": 0.8},
+        "Seaking": {"name": "Seaking", "location": "superRod", "rate": 0.2}
+    },
+    "safari-zone-west": {
+         "Pikachu": {"name": "Pikachu", "location": "grass", "rate": 0.05},
+        "Oddish": {"name": "Oddish", "location": "grass", "rate": 0.4},
+        "Gloom": {"name": "Gloom", "location": "grass", "rate": 0.05},
+        "Doduo": {"name": "Doduo", "location": "grass", "rate": 0.1},
+        "Natu": {"name": "Natu", "location": "grass", "rate": 0.1},
+        "Girafarig": {"name": "Girafarig", "location": "grass", "rate": 0.2},
+        "Wobbuffet": {"name": "Wobbuffet", "location": "grass", "rate": 0.1},
+
+        "Psyduck": {"name": "Psyduck", "location": "surf", "rate": 1},
+
+        "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.4},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+
+        "Goldeen3": {"name": "Goldeen", "location": "superRod", "rate": 0.8},
+        "Seaking": {"name": "Seaking", "location": "superRod", "rate": 0.2}
+    },
+    "r122": {
+         "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+        "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.6}
+    },
+    "mt-pyre": {
+         "Shuppet": {"name": "Shuppet", "location": "1F-3F", "rate": 1},
+         "Shuppet2": {"name": "Shuppet", "location": "4F-6F", "rate": 0.9},
+         "Duskull": {"name": "Duskull", "location": "4F-6F", "rate": 0.1},
+         "Vulpix": {"name": "Vulpix", "location": "grass", "rate": 0.2},
+         "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.1},
+         "Meditite": {"name": "Meditite", "location": "grass", "rate": 0.3},
+         "Shuppet3": {"name": "Shuppet", "location": "grass", "rate": 0.4},
+
+         "Shuppet4": {"name": "Shuppet", "location": "summit", "rate": 0.85},
+         "Duskull2": {"name": "Duskull", "location": "summit", "rate": 0.13},
+         "Chimecho": {"name": "Chimecho", "location": "summit", "rate": 0.02}
+    },
+    "r123": {
+        "Oddish": {"name": "Oddish", "location": "grass", "rate": 0.15},
+        "Gloom": {"name": "Gloom", "location": "grass", "rate": 0.05},
+        "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.2},
+        "Linoone:": {"name": "Linoone", "location": "grass", "rate": 0.2},
+        "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.09},
+        "Kecleon": {"name": "Kecleon", "location": "grass", "rate": 0.01},
+        "Shuppet": {"name": "Shuppet", "location": "grass", "rate": 0.3},
+
+
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+        "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+    },
+    "lilycove-city": {
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+        "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Staryu": {"name": "Staryu", "location": "superRod", "rate": 0.15},
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.85}
+    },
+    "r124": {
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+        "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.6},
+
+        "Chinchou": {"name": "Chinchou", "location": "seaweed", "rate": 0.3},
+        "Clamperl": {"name": "Clamperl", "location": "seaweed", "rate": 0.65},
+        "Relicanth": {"name": "Relicanth", "location": "seaweed", "rate": 0.05}
+    },
+    "mossdeep-city": {
+            "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+            "Wingull2": {"name": "Wingull", "location": "surf", "rate": 0.35},
+            "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+            "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+            "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+            "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+            "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+            "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+            "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+            "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.6}
+    },
+    "r125": {
+         "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+        "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+        "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.6}
+    },
+    "shoal-cave": {
+        "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.45},
+        "Golbat": {"name": "Golbat", "location": "cave", "rate": 0.05},
+        "Spheal": {"name": "Spheal", "location": "cave", "rate": 0.5},
+
+        "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+        "Zubat2": {"name": "Zubat", "location": "surf", "rate": 0.3},
+        "Spheal2": {"name": "Spheal", "location": "surf", "rate": 0.1},
+
+        "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+        "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+        "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+    },
+        "r127": {
+             "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+            "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+            "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+            "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+            "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+            "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+            "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+            "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+            "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+            "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.6}
+        },
+    "r128": {
+            "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+            "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+            "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+            "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+            "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+            "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+            "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+            "Luvdisc": {"name": "Luvdisc", "location": "goodRod", "rate": 0.2},
+
+            "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.45},
+            "Luvdisc2": {"name": "Luvdisc", "location": "superRod", "rate": 0.4},
+            "Corsola": {"name": "Corsola", "location": "superRod", "rate": 0.15}
+    },
+    "seafloor-cavern": {
+            "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.9},
+            "Golbat": {"name": "Golbat", "location": "cave", "rate": 0.1},
+
+            "Zubat2": {"name": "Zubat", "location": "surf", "rate": 0.35},
+            "Golbat2": {"name": "Golbat", "location": "surf", "rate": 0.05},
+            "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+
+            "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+            "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+            "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+            "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+            "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+            "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+    },
+    "r126": {
+           "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+            "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+            "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+            "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+            "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+            "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+            "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+            "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+            "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+            "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.6},
+
+            "Chinchou": {"name": "Chinchou", "location": "seaweed", "rate": 0.3},
+            "Clamperl": {"name": "Clamperl", "location": "seaweed", "rate": 0.65},
+            "Relicanth": {"name": "Relicanth", "location": "seaweed", "rate": 0.05}
+    },
+    "sootopolis-city": {
+         "Magikarp": {"name": "Magikarp", "location": "surf", "rate": 1},
+
+        "Tentacool": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+        "Magikarp2": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Magikarp3": {"name": "Magikarp", "location": "goodRod", "rate": 1},
+
+        "Magikarp4": {"name": "Magikarp", "location": "superRod", "rate": 0.8},
+        "Gyarados": {"name": "Gyarados", "location": "superRod", "rate": 0.2}
+    },
+    "cave-of-origin": {
+         "Zubat": {"name": "Zubat", "location": "entrance", "rate": 0.9},
+    "Golbat": {"name": "Golbat", "location": "entrance", "rate": 0.1},
+     "Zubat2": {"name": "Zubat", "location": "1F-B3F", "rate": 0.6},
+    "Golbat2": {"name": "Golbat", "location": "1F-B3F", "rate": 0.1},
+    "Sableye": {"name": "Sableye", "loation": "1F-B3F", "rate": 0.3}
+    },
+        "r108": {
+                 "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+    "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+    "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+    "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+    "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+    "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 1}
+        },
+    "abandoned-ship": {
+            "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.99},
+            "Tentacruel": {"name": "Tentacruel", "location": "surf", "rate": 0.01},
+
+            "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+         "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+            "Tentacool3": {"name": "Tentacool", "location":"goodRod", "rate": 0.4},
+            "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+            "Tentacool4": {"name": "Tentacool", "location": "superRod", "rate": 0.8},
+            "Tentacruel2": {"name": "Tentacruel", "location": "superRod", "rate": 0.2}
+    },
+    "r129": {
+          "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+    "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.04},
+    "Wailord": {"name": "Wailord", "location": "surf", "rate": 0.01},
+
+    "Tentacool2": {"name": "Tentacool", "location": "oldRod", "rate": 0.3},
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+    "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+    "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+    "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.6},
+    "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4}
+    },
+    "r130": {
+             "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+    "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+     "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+    "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+    "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+    "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+    "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.6}
+    },
+    "mirage-island": {
+         "Wynaut": {"name": "Wynaut", "location": "grass", "rate": 1}
+    },
+    "r131": {
+             "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+    "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+     "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+    "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+    "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+    "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+    "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.6}
+    },
+    "pacifidlog-town": {
+             "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+    "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+    "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+    "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+    "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+    "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+    "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.6},
+
+    "Corsola": {"name": "Corsola", "location": "trade", "rate": "N/A"}
+    },
+    "r132": {
+            "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+    "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+     "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+    "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+    "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+    "Horsea": {"name": "Horsea", "location": "superRod", "rate": 0.15},
+    "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+    "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.45}
+    },
+    "r133": {
+            "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+    "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+     "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+    "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+    "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+    "Horsea": {"name": "Horsea", "location": "superRod", "rate": 0.15},
+    "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+    "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.45}
+    },
+    "r134": {
+            "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+    "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+     "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+    "Tentacool3": {"name": "Tentacool", "location": "goodRod", "rate": 0.2},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+    "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+    "Horsea": {"name": "Horsea", "location": "superRod", "rate": 0.15},
+    "Sharpedo": {"name": "Sharpedo", "location": "superRod", "rate": 0.4},
+    "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.45}
+    },
+    "ever-grande-city": {
+            "Tentacool": {"name": "Tentacool", "location": "surf", "rate": 0.6},
+    "Wingull": {"name": "Wingull", "location": "surf", "rate": 0.35},
+    "Pelipper": {"name": "Pelipper", "location": "surf", "rate": 0.05},
+
+     "Tenatcool2": {"name": "Tenatcool", "location": "oldRod", "rate": 0.3},
+    "Magikarp": {"name": "Magikarp", "location": "oldRod", "rate": 0.7},
+
+    "Luvdisc": {"name": "Luvdisc", "location": "goodRod", "rate": 0.2},
+    "Magikarp2": {"name": "Magikarp", "location": "goodRod", "rate": 0.6},
+    "Wailmer": {"name": "Wailmer", "location": "goodRod", "rate": 0.2},
+
+    "Wailmer2": {"name": "Wailmer", "location": "superRod", "rate": 0.45},
+    "Luvdisc2": {"name": "Luvdisc", "location": "superRod", "rate": 0.4},
+    "Corsola": {"name": "Corsola", "location": "superRod", "rate": 0.15}
+    },
+    "victory-road": {
+        "1F": {
+        "Zubat": {"name": "Zubat", "location": "cave", "rate": 0.1},
+        "Golbat": {"name": "Golbat", "location": "cave", "rate": 0.25},
+        "Whismur": {"name": "Whismur", "location": "cave", "rate": 0.05},
+        "Loudred": {"name": "Loudred", "location": "cave", "rate": 0.1},
+        "Makuhita": {"name": "Makuhita", "location": "cave", "rate": 0.1},
+        "Hariyama": {"name": "Hariyama", "location": "cave", "rate": 0.25},
+        "Aron": {"name": "Aron", "location": "cave", "rate": 0.05},
+        "Lairon": {"name": "Lairon", "location": "cave", "rate": 0.1}
+    },
+    "B1F": {
+        "Golbat": {"name": "Golbat", "location": "cave", "rate": 0.35},
+        "Hariyama": {"name": "Hariyama", "location": "cave", "rate": 0.35},
+        "Lairon": {"name": "Lairon", "location": "cave", "rate": 0.15},
+        "Meditite": {"name": "Meditite", "location": "cave", "rate": 0.05},
+        "Medicham": {"name": "Medicham", "location": "cave", "rate": 0.1},
+
+        "Geodude": {"name": "Geodude", "location":"cave", "rate": 0.3},
+        "Graveler": {"name": "Graveler", "location":"cave", "rate": 0.7}
+    },
+
+    "B2F": {
+        "Golbat": {"name": "Golbat", "location": "cave", "rate": 0.35},
+        "Sableye": {"name": "Sableye", "location": "cave", "rate": 0.35},
+        "Lairon": {"name": "Lairon", "location": "cave", "rate": 0.15},
+        "Medicham": {"name": "Medicham", "location": "cave", "rate": 0.15},
+
+        "Golbat2": {"name": "Golbat", "location": "surf", "rate": 1},
+
+        "Goldeen": {"name": "Goldeen", "location": "oldRod", "rate": 0.3},
+        "Magikarp": {"name":"Magikarp", "location": "oldRod", "rate": 0.7},
+
+        "Goldeen2": {"name": "Goldeen", "location": "goodRod", "rate": 0.2},
+        "Magikarp2": {"name":"Magikarp", "location": "goodRod", "rate": 0.6},
+        "Barboach": {"name": "Barboach", "location": "goodRod", "rate": 0.2},
+
+        "Barboach2": {"name": "Barboach", "location": "superRod", "rate": 0.8},
+        "Whiscash": {"name": "Whiscash", "location": "superRod", "rate": 0.2}
+
+    }
+    }
+
+    }
