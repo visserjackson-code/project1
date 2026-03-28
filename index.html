@@ -12,6 +12,33 @@
     </template>
 </head>
 <body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Pokémon Sapphire Nuzlocke Tracker</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/team.html">Team</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/grave.html">Graveyard</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" aria-disabled="true">Bosses</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<img id="starter-1" src="" alt="">
+<img id="starter-2" src="" alt="">
+<img id="starter-3" src="" alt="">
     <p class="introduction">This page serves as a tracker for a "Nuzlocke" style run of Pokémon Sapphire.
         While you can add and modify rules at your leisure, a Nuzlocke run has two main rules.
         <ol class="introduction-list">
@@ -21,10 +48,26 @@
         </ol>
         For more information and additonal rule ideas, see the Wikipedia article <a href="http://https://en.wikipedia.org/wiki/Nuzlocke" target="_blank" rel="noopener noreferrer"> here</a>.
     </p>
+    <div class="d-flex gap-3 align-items-center">
     <select class="form-select" id="starter-choose" aria-label="starter-choose"></select>
+    <input type="text" class="form-control w-25" id="starter-nickname" placeholder="Nickname:">
+    <button class="btn btn-primary m-3" id="catch-btn">Catch</button>
+    </div>
+    <div class="d-flex gap-3 align-items-center">
     <select class="form-select" id="101-choose" aria-label="101-choose"></select>
+    <input type="text" class="form-control w-25" id="101-nickname" placeholder="Nickname:">
+    <button class="btn btn-primary m-3" id="catch-btn">Catch</button>
+    </div>
+    <div class="d-flex gap-3 align-items-center">
     <select class="form-select" id="103-choose" aria-label="103-choose"></select>
+     <input type="text" class="form-control w-25" id="103-nickname" placeholder="Nickname:">
+    <button class="btn btn-primary m-3" id="catch-btn">Catch</button>
+    </div>
+    <div class="d-flex gap-3 align-items-center">
     <select class="form-select" id="102-choose" aria-label="102-choose"></select>
+    <input type="text" class="form-control w-25" id="103-nickname" placeholder="Nickname:">
+    <button class="btn btn-primary m-3" id="catch-btn">Catch</button>
+    </div>
      <script type="module" defer src="app.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </body>

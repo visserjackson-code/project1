@@ -10,7 +10,7 @@
         "Wurmple": {"name": "Wurmple", "location": "grass", "rate": 0.45}
     },
     "r103": {
-        "Poocheyena": {"name": "Poocheyena", "location": "grass", "rate": 0.3},
+        "Poochyena": {"name": "Poocheyena", "location": "grass", "rate": 0.3},
         "Zigzagoon": {"name": "Zigzagoon", "location": "grass", "rate": 0.6},
         "Wingull": {"name": "Wingull", "location": "grass", "rate": 0.1},
 
