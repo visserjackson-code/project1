@@ -3,16 +3,16 @@ import encounters from './encounters.json' with { type: 'json' };
 
 
 
-const starters = encounters.starters;
-const r101 = encounters.r101;
+// const starters = encounters.starters;
+// const r101 = encounters.r101;
 
-for (let starter in starters) {
- console.log(starter);
-}
+// for (let starter in starters) {
+//  console.log(starter);
+// }
 
-for (let encounter in r101) {
-    console.log(encounter);
-}
+// for (let encounter in r101) {
+//     console.log(encounter);
+// }
 
 const starterDropdown = document.getElementById('starter-choose');
 const r101Dropdown = document.getElementById('101-choose');
