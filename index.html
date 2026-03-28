@@ -2,11 +2,30 @@
 <html lang="en">
 <head>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokemon Sapphire Nuzlocke Tracker</title>
+    <title>Pokémon Sapphire Nuzlocke Tracker</title>
+    <template id="encounter-option-template">
+        <option class="encounter-option"></option>
+    </template>
 </head>
 <body>
-    <script src="app.js"></script>
+    <p class="introduction">This page serves as a tracker for a "Nuzlocke" style run of Pokémon Sapphire.
+        While you can add and modify rules at your leisure, a Nuzlocke run has two main rules.
+        <ol class="introduction-list">
+            <li>You are only allowed to catch the first Pokémon you encounter on each route.
+            </li>
+            <li>If a Pokémon faints in battle, that Pokémon is considered "dead" and can no longer be used for the remainder of the run</li>
+        </ol>
+        For more information and additonal rule ideas, see the Wikipedia article <a href="http://https://en.wikipedia.org/wiki/Nuzlocke" target="_blank" rel="noopener noreferrer"> here</a>.
+    </p>
+    <select class="form-select" id="starter-choose" aria-label="starter-choose"></select>
+    <select class="form-select" id="101-choose" aria-label="101-choose"></select>
+    <select class="form-select" id="103-choose" aria-label="103-choose"></select>
+    <select class="form-select" id="102-choose" aria-label="102-choose"></select>
+     <script type="module" defer src="app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </body>
 </html>
